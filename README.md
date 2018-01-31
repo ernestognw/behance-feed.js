@@ -29,6 +29,8 @@ Also you can add the styles.css file or copy the content into your main css file
 <link href="styles.css" rel="stylesheet">
 ```
 
+If you have some questions you can rapidly go [here](https://codepen.io/ernestognw/pen/LQVPma) and check it.
+
 ## Requirements
 
 You are gonna require __Bootstrap__ and __jQuery__ to get it work. Also, you've to get a valid __client id or API Key__ from Behance's developer website. You can easily register for one on [Behance's website](https://www.behance.net/dev/register).
