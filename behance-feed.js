@@ -1,6 +1,6 @@
-var apiKey = 'ycN420C1IQyzg3vaclQ5uXOMhx0toixh'; // Your API Key/Client ID. 
+var apiKey = 'Your_API_Key'; // Your API Key/Client ID. 
 // If you don't have one, go get it here: https://www.behance.net/dev/register
-var user = 'ramotion'; // This is your behance username
+var user = 'Your_Username'; // This is your behance username
 
 $(function () {
 	$.ajax({
