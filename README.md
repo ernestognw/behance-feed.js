@@ -12,14 +12,13 @@ Setting up Behance-feed is pretty straight-forward. Just download the script and
 
 ## Basic Usage
 
-Add the apiKey and user variables to the global layout. Here's an example of getting a feed from __/ramotion__:
+Add the apiKey and user variables to the global layout. Here's an example of getting a feed from Your_Username:
 
 ```html
 <script>
-  var apiKey = 'ycN420C1IQyzg3vaclQ5uXOMhx0toixh'; // Your API Key/Client ID. 
-  // If you don't have one, go get it here: https://www.behance.net/dev/register
-  var user = 'ramotion'; // This is your behance username
-</script
+  var apiKey = 'Your_Behance_API';
+  var user = 'Your_Username';
+</script>
 ```
 
 Instafeed with automatically look for a `<div id="behance-feed"></div>` and fill it with linked thumbnails.
