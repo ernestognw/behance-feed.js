@@ -21,7 +21,7 @@ Add the apiKey and user variables to the global layout. Here's an example of get
 </script>
 ```
 
-Instafeed with automatically look for a `<div id="behance-feed"></div>` and fill it with linked thumbnails.
+Behance feed with automatically look for a `<div id="behance-feed"></div>` and fill it with linked thumbnails.
 
 Also you can add the styles.css file or copy the content into your main css file in order to look good and start to make some changes to adapt it to your website style
 
